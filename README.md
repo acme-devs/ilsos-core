@@ -1,6 +1,4 @@
 # ilsos-core
-![Powered by](https://img.shields.io/badge/Powered%20by-Mulesoft-535597.svg)
-<br>
 
 Common configurations for Mulesoft projects
 
